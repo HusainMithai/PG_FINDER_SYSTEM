@@ -37,4 +37,4 @@ Here are some images of the project
 ![pg9](https://github.com/Brijesh-Adeshara/PG_FINDER_SYSTEM_IN_BLOCKCHAIN/assets/127421200/6ea9e34a-ca8e-4a33-8516-e35aef1acc36)
 ![pg10](https://github.com/Brijesh-Adeshara/PG_FINDER_SYSTEM_IN_BLOCKCHAIN/assets/127421200/ea60e3a9-5f32-4688-8e87-94d83c9deaef)
 ![pg11](https://github.com/Brijesh-Adeshara/PG_FINDER_SYSTEM_IN_BLOCKCHAIN/assets/127421200/84914ba5-4fcf-4c60-a718-ac4a1e8c2e39)
-![pg12](https://github.com/Brijesh-Adeshara/PG_FINDER_SYSTEM_IN_BLOCKCHAIN/assets/127421200/55e50787-2320-4925-a8a2-db84b52630ec
+![pg12](https://github.com/Brijesh-Adeshara/PG_FINDER_SYSTEM_IN_BLOCKCHAIN/assets/127421200/55e50787-2320-4925-a8a2-db84b52630ec)
